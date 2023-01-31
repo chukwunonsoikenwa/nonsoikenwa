@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nonsoikenwa
-- 5 years product managememt experience
+- 6 years product managememt experience
 - Applied physics and Buisiness management degree
 - 👀 I’m interested in building and scaling products
 - 🌱 I’m currently learning solidity and Javascript
